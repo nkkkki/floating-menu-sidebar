@@ -3,7 +3,7 @@
 Plugin Name: Floating Menu Sidebar
 Description: Display any WordPress menu as a floating sidebar with position control.
 Version: 1.1
-Author: Your Name
+Author: Nika Nemsitsveridze
 */
 
 if (!defined('ABSPATH')) exit;
